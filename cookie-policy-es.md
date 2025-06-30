@@ -1,10 +1,3 @@
----
-layout: ../components/markdown-layout.astro
-title: Cookie Policy
----
-
-
-
 ## Política de Cookies
 
 MSE está comprometido con la protección de la privacidad de nuestros clientes y partes interesadas, y asumimos nuestras obligaciones en materia de protección de datos personales con la máxima seriedad.
