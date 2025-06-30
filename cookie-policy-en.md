@@ -1,8 +1,3 @@
-
----
-title: Cookie Policy
----
-
 ## Cookie Policy
 
 MSE is committed to protecting the privacy of our clients and interested parties, and we take our obligations regarding the protection of personal data with the utmost seriousness.
