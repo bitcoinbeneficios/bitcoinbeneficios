@@ -2,7 +2,7 @@
 
 MSE está comprometido con la protección de la privacidad de nuestros clientes y partes interesadas, y asumimos nuestras obligaciones en materia de protección de datos personales con la máxima seriedad.
 
-Esta Política establece cómo son usadas las cookies y tecnologías similares en nuestro sitio web y los fines para los que las usamos. Esta Política de Cookies en conjunto con nuestro Aviso de Privacidad será aplicable en la medida en la que uses nuestro sitio web. Si no aceptas estas políticas, suspende inmediatamente el uso de nuestro sitio web. Puede consultar nuestro Aviso de Privacidad en [bitcoinbeneficios.com/privacy_policy](http://bitcoinbeneficios.com/privacy_policy).
+Esta Política establece cómo son usadas las cookies y tecnologías similares en nuestro sitio web y los fines para los que las usamos. Esta Política de Cookies en conjunto con nuestro Aviso de Privacidad será aplicable en la medida en la que uses nuestro sitio web. Si no aceptas estas políticas, suspende inmediatamente el uso de nuestro sitio web. Puede consultar nuestro Aviso de Privacidad en [bitcoinbeneficios.com/privacy_policy](https://bitcoinbeneficios.com/privacy-policy).
 
 Las referencias y usos de las palabras “nosotros” y “nuestro” dentro de esta Política hacen referencia a **MSE Inc. (“Sociedad” o “MSE”, indistintamente)**, una sociedad constituida y registrada conforme a las leyes de Delaware.
 
