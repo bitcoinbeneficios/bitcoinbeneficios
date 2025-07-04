@@ -14,19 +14,17 @@ By using our website, in accordance with this Cookie Policy, you consent to the 
 
 ### 1. What are cookies
 
-Las cookies son una función del software del navegador web que le permite a los servidores web reconocer la computadora o el dispositivo empleado para acceder a un determinado sitio web. Una cookie es un pequeño archivo de texto descargado en tu computadora o dispositivo móvil cuando visitas el sitio que le permite al sitio web recordar tus acciones y preferencias (tales como inicio de sesión, idioma, tamaño de fuente y otras preferencias de visualización) a lo largo del tiempo, para que no tengas que volver a ajustarlas cuando vuelvas al sitio web o navegues de una página a otra.
+Cookies are a feature of web browser software that allows web servers to recognize the computer or device used to access a given website. A cookie is a small text file downloaded onto your computer or mobile device when you visit a site that enables the website to remember your actions and preferences (such as login, language, font size, and other display preferences) over time, so you don't have to reset them each time you return to the website or navigate from one page to another.
 
-Existen dos diferentes formas de clasificar las cookies, conforme a su duración y por el dominio al que pertenecen.
+Cookies can be classified in two different ways: by their duration and by the domain to which they belong.
 
-**Según su duración, una cookie puede ser:**
+By duration, a cookie can be:
+- a session cookie, which is deleted when the user closes the browser; or
+- a persistent cookie, which is stored on the hard drive and remains on the user's computer/device for a predefined period.
 
-- cookie de sesión, la cual se elimina cuando el usuario cierra el navegador; o
-- cookie persistente, la cual se guarda en el disco duro y permanece en la computadora/dispositivo del usuario por un plazo predefinido.
-
-**Según el tipo de dominio al que pertenece, una cookie es:**
-
-- propias, que son creadas por el servidor del sitio visitado y comparte el mismo dominio (es decir, establecido por nosotros); o
-- de terceros, creadas por un dominio distinto al dominio del sitio visitado.
+By domain, a cookie can be:
+- first-party, created by the server of the site visited and sharing the same domain (i.e., set by us); or
+- third-party, created by a domain other than the domain of the site visited.
 
 ### 2. What cookies we use
 
