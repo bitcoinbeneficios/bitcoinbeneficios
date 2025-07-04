@@ -2,7 +2,7 @@
 
 MSE is committed to protecting the privacy of our clients and interested parties, and we take our obligations regarding the protection of personal data with the utmost seriousness.
 
-This Policy establishes how cookies and similar technologies are used on our website and the purposes for which we use them. This Cookie Policy, in conjunction with our Privacy Notice, will be applicable to the extent that you use our website. If you do not accept these policies, please immediately suspend the use of our website. You can consult our Privacy Notice at [Privacy Policy](http://bitcoinbeneficios.com/en/privacy-policy).
+This Policy establishes how cookies and similar technologies are used on our website and the purposes for which we use them. This Cookie Policy, in conjunction with our Privacy Notice, will be applicable to the extent that you use our website. If you do not accept these policies, please immediately suspend the use of our website. You can consult our Privacy Notice at [Cookies Policy](http://bitcoinbeneficios.com/en/cookie-policy).
 
 The references and uses of the words "we," "us," and "our" within this Policy refer to **MSE Inc. ("Company" or "MSE," interchangeably)**, a company incorporated and registered under the laws of Delaware.
 
